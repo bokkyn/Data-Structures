@@ -4,7 +4,7 @@ A data structure is a particular way of organizing and storing data in a compute
 be accessed and modified efficiently.
 
 * [Linked List](src/Linked%20List)
-* [Linked List (Polynomial Addition)](src/Polynomial Addition and Multiplication)
+* [Linked List (Polynomial Addition)](src/Polynomial%20Addition%20and%20Multiplication)
 * [Stack](src/Stack)
 * [Tree](src/Tree)
-* [Binary Search Tree](src/Binary Search Tree)
+* [Binary Search Tree](src/Binary%20Search%20Tree)
