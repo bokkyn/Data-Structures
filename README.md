@@ -3,7 +3,7 @@
 A data structure is a particular way of organizing and storing data in a computer so that it can
 be accessed and modified efficiently.
 
-* [Linked List](src/Linked-List)
+* [Linked List](src/Linked-List/)
 * [Linked List (Polynomial Addition)](src/Polynomial Addition and Multiplication)
 * [Stack](src/Stack)
 * [Tree](src/Tree)
