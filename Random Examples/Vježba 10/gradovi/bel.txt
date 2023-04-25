@@ -1,0 +1,5 @@
+Gent 265086
+Brugge 118509
+Antwerp 530504
+Bruxelles 1222637
+Charleroi 201816

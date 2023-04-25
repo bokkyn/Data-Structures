@@ -1,0 +1,4 @@
+Bobo-Dioulasso 903887 
+Ouagadougou 2453496
+testB 50000
+testA 50000

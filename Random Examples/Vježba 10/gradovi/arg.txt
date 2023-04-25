@@ -1,0 +1,5 @@
+Buenos_Aires 15490000
+Rosario 1594000
+Cordoba 1612000
+Ushuaia 81000
+San_Salvador_de_Jujuy 371000

@@ -1,0 +1,5 @@
+Fortaleza 4167996
+Salvador 3919864
+Rio_de_Janeiro 12280702
+Sao_Paulo 22001281
+Curitiba 3400100
